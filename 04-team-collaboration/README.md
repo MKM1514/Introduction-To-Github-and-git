@@ -1,3 +1,4 @@
+
 # Task 4: Collaborate as a Team
 
 This is where you put everything together. Your team will create a shared repository and practice the real collaboration workflow: one person owns the repo, the others contribute through branches and pull requests.
@@ -42,6 +43,7 @@ A collaborative guide by [list all team member names].
 - [VS Code](#vs-code)
 - [Notion](#notion)
 - [Canva](#canva)
+-[Python]#(python)
 
 ## Introduction
 This guide covers tools that every student should know about.
@@ -49,6 +51,7 @@ Each section is written by a different team member.
 
 ## VS Code
 <!-- [Team Member 1 Name] will write this section -->
+## Python
 
 ## Notion
 <!-- [Team Member 2 Name] will write this section -->
@@ -200,3 +203,4 @@ When you are done, your instructor will check the team repository for:
 - [About collaborative development models - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
 - [Resolving a merge conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
 - [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow)
+## Task 4 completed by **MKM1514** 
